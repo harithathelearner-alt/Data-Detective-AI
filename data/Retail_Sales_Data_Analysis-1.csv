@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Region,Category,Product,Quantity,Unit_Price,Discount,Sales
+ORD0826,01-01-2026,North,Office Supplies,Stapler,1,220,0,220
+ORD0657,02-01-2026,South,Office Supplies,Notebook,5,180,0.1,810
+ORD0036,02-01-2026,South,Electronics,Monitor,1,15000,0,15000
+ORD0221,02-01-2026,North,Electronics,Monitor,5,15000,0,75000
+ORD0314,02-01-2026,North,Office Supplies,Pen Set,2,250,0,500
+ORD0752,02-01-2026,North,Office Supplies,Notebook,3,180,0,540
+ORD0003,02-01-2026,West,Office Supplies,Stapler,3,220,0,660
+ORD0388,02-01-2026,West,Furniture,Office Chair,1,6500,0.05,6175
+ORD0957,03-01-2026,North,Clothing,Jacket,5,3200,0.15,13600
+ORD0653,03-01-2026,West,Furniture,Table,7,10000,0,70000
+ORD0400,03-01-2026,West,Clothing,T-Shirt,4,700,0.15,2380
+ORD0807,03-01-2026,South,Clothing,Jeans,5,1800,0,9000
+ORD0171,03-01-2026,North,Office Supplies,Printer Paper,4,450,0,1800
+ORD0725,03-01-2026,North,Furniture,Desk,4,12000,0.15,40800
+ORD0058,04-01-2026,East,Clothing,Sneakers,5,2800,0.05,13300
+ORD0612,04-01-2026,East,Furniture,Bookshelf,7,8000,0.1,50400
+ORD0254,04-01-2026,North,Furniture,Bookshelf,7,8000,0.1,50400
+ORD0982,05-01-2026,West,Clothing,T-Shirt,4,700,0,2800
+ORD0443,05-01-2026,North,Office Supplies,Stapler,3,220,0,660
+ORD0189,05-01-2026,North,Electronics,Monitor,7,15000,0.1,94500
+ORD0275,05-01-2026,East,Clothing,T-Shirt,7,700,0.05,4655
+ORD0165,06-01-2026,South,Electronics,Laptop,4,55000,0.15,187000
+ORD0280,06-01-2026,West,Office Supplies,Printer Paper,5,450,0,2250
+ORD0300,06-01-2026,East,Office Supplies,Printer Paper,5,450,0.05,2137.5
+ORD0318,06-01-2026,North,Office Supplies,Printer Paper,3,450,0,1350
+ORD0294,07-01-2026,North,Office Supplies,Printer Paper,4,450,0.1,1620
+ORD0249,07-01-2026,North,Office Supplies,Printer Paper,6,450,0,2700
+ORD0319,08-01-2026,West,Electronics,Monitor,1,15000,0.05,14250
+ORD0619,08-01-2026,South,Clothing,Jacket,3,3200,0.15,8160
+ORD0516,08-01-2026,North,Electronics,Smartphone,1,28000,0.05,26600
+ORD0947,08-01-2026,East,Office Supplies,Notebook,7,180,0,1260
+ORD0666,08-01-2026,North,Clothing,Jacket,1,3200,0.05,3040
+ORD0342,08-01-2026,East,Office Supplies,Notebook,1,180,0,180
+ORD0056,08-01-2026,East,Office Supplies,Pen Set,5,250,0.05,1187.5
+ORD0009,09-01-2026,South,Clothing,Sneakers,6,2800,0.1,15120
+ORD0693,09-01-2026,South,Office Supplies,Notebook,5,180,0,900
+ORD0447,10-01-2026,North,Clothing,Jacket,6,3200,0.1,17280
+ORD0412,10-01-2026,North,Office Supplies,Pen Set,6,250,0.15,1275
+ORD0381,10-01-2026,West,Clothing,T-Shirt,2,700,0,1400
+ORD0449,10-01-2026,East,Office Supplies,Stapler,4,220,0,880
+ORD0125,10-01-2026,West,Furniture,Office Chair,7,6500,0.1,40950
+ORD0420,11-01-2026,South,Clothing,Jeans,1,1800,0,1800
+ORD0265,11-01-2026,South,Office Supplies,Printer Paper,7,450,0.1,2835
+ORD0235,11-01-2026,West,Electronics,Headphones,2,3500,0,7000
+ORD0348,12-01-2026,South,Electronics,Laptop,1,55000,0.05,52250
+ORD0607,12-01-2026,South,Electronics,Monitor,4,15000,0.05,57000
+ORD0841,12-01-2026,South,Office Supplies,Printer Paper,5,450,0.15,1912.5
+ORD0067,13-01-2026,West,Clothing,Jacket,2,3200,0.1,5760
+ORD0817,13-01-2026,East,Office Supplies,Pen Set,4,250,0.05,950
+ORD0655,13-01-2026,North,Office Supplies,Notebook,4,180,0,720
+ORD0823,13-01-2026,East,Furniture,Table,5,10000,0.05,47500
+ORD0429,13-01-2026,North,Office Supplies,Stapler,7,220,0.05,1463
+ORD0796,13-01-2026,North,Furniture,Table,2,10000,0.05,19000
+ORD0226,14-01-2026,North,Clothing,T-Shirt,2,700,0,1400
+ORD0335,14-01-2026,South,Furniture,Desk,7,12000,0.05,79800
+ORD0153,14-01-2026,East,Clothing,Jeans,2,1800,0.05,3420
+ORD0938,14-01-2026,South,Office Supplies,Pen Set,4,250,0.05,950
+ORD0322,14-01-2026,East,Office Supplies,Printer Paper,1,450,0,450
+ORD0152,14-01-2026,South,Clothing,Jacket,7,3200,0.1,20160
+ORD0184,15-01-2026,East,Furniture,Bookshelf,2,8000,0,16000
+ORD0024,15-01-2026,South,Clothing,Jacket,3,3200,0.05,9120
+ORD0677,15-01-2026,West,Electronics,Smartphone,6,28000,0.05,159600
+ORD0006,15-01-2026,South,Office Supplies,Pen Set,4,250,0.15,850
+ORD0802,15-01-2026,East,Office Supplies,Printer Paper,2,450,0,900
+ORD0682,16-01-2026,West,Clothing,Sneakers,4,2800,0.15,9520
+ORD0716,16-01-2026,West,Furniture,Bookshelf,6,8000,0,48000
+ORD0717,16-01-2026,East,Clothing,Jeans,5,1800,0,9000
+ORD0735,16-01-2026,East,Furniture,Table,7,10000,0.05,66500
+ORD0932,17-01-2026,South,Furniture,Table,6,10000,0.1,54000
+ORD0291,17-01-2026,West,Office Supplies,Pen Set,4,250,0,1000
+ORD0564,17-01-2026,West,Furniture,Table,5,10000,0,50000
+ORD0065,17-01-2026,West,Electronics,Headphones,2,3500,0.1,6300
+ORD0772,18-01-2026,South,Office Supplies,Printer Paper,5,450,0.1,2025
+ORD0631,19-01-2026,North,Electronics,Laptop,5,55000,0,275000
+ORD0383,19-01-2026,West,Electronics,Laptop,4,55000,0,220000
+ORD0939,19-01-2026,East,Electronics,Monitor,4,15000,0,60000
+ORD0076,19-01-2026,West,Office Supplies,Printer Paper,1,450,0,450
+ORD0540,19-01-2026,North,Office Supplies,Pen Set,3,250,0.1,675
+ORD0117,20-01-2026,North,Clothing,T-Shirt,4,700,0.05,2660
+ORD0169,20-01-2026,North,Clothing,Sneakers,3,2800,0,8400
+ORD0549,20-01-2026,North,Clothing,Jacket,5,3200,0,16000
+ORD1000,20-01-2026,East,Electronics,Monitor,1,15000,0,15000
+ORD0839,20-01-2026,West,Furniture,Desk,5,12000,0,60000
+ORD0806,20-01-2026,West,Furniture,Office Chair,5,6500,0.15,27625
+ORD0053,21-01-2026,West,Electronics,Laptop,4,55000,0,220000
+ORD0779,21-01-2026,North,Clothing,Jacket,2,3200,0.05,6080
+ORD0441,21-01-2026,West,Electronics,Monitor,1,15000,0.15,12750
+ORD0162,21-01-2026,South,Furniture,Office Chair,1,6500,0,6500
+ORD0004,21-01-2026,North,Clothing,Jeans,2,1800,0,3600
+ORD0519,21-01-2026,South,Clothing,Jacket,5,3200,0.15,13600
+ORD0502,22-01-2026,West,Clothing,Jeans,5,1800,0,9000
+ORD0321,22-01-2026,South,Office Supplies,Stapler,4,220,0.05,836
+ORD0754,22-01-2026,West,Electronics,Headphones,5,3500,0,17500
+ORD0456,22-01-2026,West,Electronics,Smartphone,6,28000,0.15,142800
+ORD0055,22-01-2026,South,Office Supplies,Printer Paper,3,450,0.05,1282.5
+ORD0227,22-01-2026,East,Office Supplies,Notebook,1,180,0,180
+ORD0997,22-01-2026,North,Electronics,Laptop,6,55000,0,330000
+ORD0192,23-01-2026,East,Electronics,Smartphone,6,28000,0,168000
+ORD0087,24-01-2026,West,Clothing,T-Shirt,5,700,0,3500
+ORD0946,24-01-2026,East,Clothing,Jacket,3,3200,0,9600
+ORD0799,25-01-2026,South,Clothing,Jacket,2,3200,0,6400
+ORD0323,25-01-2026,North,Office Supplies,Stapler,7,220,0.05,1463
+ORD0201,25-01-2026,South,Electronics,Laptop,3,55000,0,165000
+ORD0302,25-01-2026,West,Electronics,Laptop,3,55000,0,165000
+ORD0646,25-01-2026,South,Furniture,Bookshelf,1,8000,0.05,7600
+ORD0241,25-01-2026,East,Furniture,Office Chair,3,6500,0.05,18525
+ORD0367,26-01-2026,West,Office Supplies,Pen Set,1,250,0,250
+ORD0334,26-01-2026,West,Furniture,Office Chair,7,6500,0,45500
+ORD0248,26-01-2026,North,Electronics,Monitor,7,15000,0.15,89250
+ORD0247,26-01-2026,East,Office Supplies,Printer Paper,2,450,0,900
+ORD0515,27-01-2026,South,Electronics,Monitor,3,15000,0,45000
+ORD0737,27-01-2026,West,Office Supplies,Pen Set,5,250,0,1250
+ORD0558,27-01-2026,West,Electronics,Laptop,4,55000,0.05,209000
+ORD0231,27-01-2026,North,Office Supplies,Notebook,2,180,0,360
+ORD0394,27-01-2026,West,Office Supplies,Pen Set,4,250,0.1,900
+ORD0907,28-01-2026,North,Furniture,Bookshelf,6,8000,0,48000
+ORD0790,28-01-2026,East,Electronics,Monitor,2,15000,0.05,28500
+ORD0508,28-01-2026,South,Furniture,Office Chair,1,6500,0.05,6175
+ORD0945,28-01-2026,West,Clothing,Jeans,4,1800,0,7200
+ORD0769,28-01-2026,North,Office Supplies,Notebook,7,180,0,1260
+ORD0293,29-01-2026,West,Electronics,Smartphone,6,28000,0.15,142800
+ORD0659,29-01-2026,East,Furniture,Table,6,10000,0,60000
+ORD0296,29-01-2026,West,Office Supplies,Pen Set,2,250,0,500
+ORD0852,29-01-2026,West,Electronics,Headphones,6,3500,0.05,19950
+ORD0685,29-01-2026,East,Electronics,Smartphone,4,28000,0.1,100800
+ORD0543,30-01-2026,North,Office Supplies,Notebook,4,180,0,720
+ORD0402,30-01-2026,North,Office Supplies,Stapler,4,220,0,880
+ORD0714,30-01-2026,South,Furniture,Office Chair,7,6500,0.05,43225
+ORD0340,31-01-2026,East,Office Supplies,Stapler,5,220,0,1100
+ORD0866,31-01-2026,East,Clothing,Jacket,7,3200,0,22400
+ORD0757,01-02-2026,South,Furniture,Office Chair,6,6500,0,39000
+ORD0986,01-02-2026,South,Office Supplies,Printer Paper,3,450,0.15,1147.5
+ORD0133,01-02-2026,South,Office Supplies,Pen Set,1,250,0.05,237.5
+ORD0403,01-02-2026,North,Electronics,Smartphone,2,28000,0.1,50400
+ORD0632,01-02-2026,South,Clothing,Jacket,1,3200,0.05,3040
+ORD0084,02-02-2026,South,Electronics,Monitor,5,15000,0.05,71250
+ORD0126,02-02-2026,South,Clothing,Jacket,5,3200,0,16000
+ORD0499,02-02-2026,North,Electronics,Smartphone,1,28000,0.1,25200
+ORD0625,03-02-2026,North,Electronics,Monitor,5,15000,0.1,67500
+ORD0628,03-02-2026,East,Electronics,Laptop,7,55000,0,385000
+ORD0750,03-02-2026,South,Office Supplies,Printer Paper,2,450,0,900
+ORD0256,03-02-2026,South,Clothing,Jeans,7,1800,0.05,11970
+ORD0159,03-02-2026,East,Office Supplies,Printer Paper,4,450,0.05,1710
+ORD0148,03-02-2026,North,Electronics,Laptop,4,55000,0,220000
+ORD0833,04-02-2026,West,Office Supplies,Stapler,5,220,0,1100
+ORD0217,04-02-2026,West,Clothing,Sneakers,7,2800,0.05,18620
+ORD0178,04-02-2026,North,Clothing,T-Shirt,6,700,0.1,3780
+ORD0409,04-02-2026,South,Clothing,Jeans,6,1800,0.1,9720
+ORD0378,05-02-2026,West,Electronics,Smartphone,5,28000,0,140000
+ORD0047,06-02-2026,West,Electronics,Monitor,6,15000,0.1,81000
+ORD0861,06-02-2026,South,Electronics,Headphones,5,3500,0.05,16625
+ORD0195,06-02-2026,West,Electronics,Monitor,4,15000,0.1,54000
+ORD0346,06-02-2026,West,Electronics,Smartphone,6,28000,0,168000
+ORD0469,06-02-2026,South,Office Supplies,Pen Set,6,250,0.05,1425
+ORD0060,06-02-2026,West,Furniture,Desk,3,12000,0.05,34200
+ORD0329,06-02-2026,West,Clothing,Jeans,5,1800,0.1,8100
+ORD0647,06-02-2026,South,Furniture,Table,3,10000,0.05,28500
+ORD0097,06-02-2026,West,Furniture,Bookshelf,7,8000,0.1,50400
+ORD0678,07-02-2026,South,Office Supplies,Notebook,6,180,0,1080
+ORD0170,07-02-2026,North,Office Supplies,Notebook,2,180,0.1,324
+ORD0588,07-02-2026,West,Electronics,Smartphone,3,28000,0,84000
+ORD0821,07-02-2026,North,Furniture,Desk,1,12000,0,12000
+ORD0174,07-02-2026,East,Electronics,Laptop,3,55000,0.05,156750
+ORD0470,07-02-2026,South,Furniture,Table,7,10000,0,70000
+ORD0875,08-02-2026,West,Furniture,Bookshelf,2,8000,0,16000
+ORD0460,08-02-2026,West,Furniture,Bookshelf,7,8000,0.05,53200
+ORD0562,08-02-2026,North,Clothing,Sneakers,4,2800,0,11200
+ORD0565,08-02-2026,North,Office Supplies,Printer Paper,7,450,0.05,2992.5
+ORD0332,08-02-2026,South,Office Supplies,Printer Paper,2,450,0.1,810
+ORD0240,09-02-2026,North,Office Supplies,Pen Set,5,250,0,1250
+ORD0278,09-02-2026,North,Office Supplies,Notebook,5,180,0.1,810
+ORD0573,10-02-2026,East,Clothing,Sneakers,2,2800,0,5600
+ORD0648,10-02-2026,East,Electronics,Smartphone,7,28000,0.05,186200
+ORD0336,10-02-2026,South,Office Supplies,Notebook,5,180,0,900
+ORD0229,11-02-2026,West,Office Supplies,Pen Set,2,250,0.05,475
+ORD0598,11-02-2026,South,Clothing,Jacket,7,3200,0,22400
+ORD0858,11-02-2026,South,Furniture,Table,1,10000,0.05,9500
+ORD0500,12-02-2026,North,Clothing,T-Shirt,2,700,0,1400
+ORD0029,13-02-2026,West,Office Supplies,Pen Set,4,250,0.1,900
+ORD0157,13-02-2026,North,Furniture,Bookshelf,6,8000,0,48000
+ORD0115,13-02-2026,North,Clothing,Jeans,5,1800,0.15,7650
+ORD0689,13-02-2026,North,Clothing,Jeans,6,1800,0.1,9720
+ORD0395,13-02-2026,North,Office Supplies,Pen Set,2,250,0.05,475
+ORD0325,13-02-2026,South,Clothing,T-Shirt,7,700,0,4900
+ORD0672,14-02-2026,East,Electronics,Smartphone,1,28000,0.1,25200
+ORD0028,14-02-2026,South,Furniture,Desk,4,12000,0.1,43200
+ORD0578,14-02-2026,East,Furniture,Bookshelf,3,8000,0.05,22800
+ORD0518,15-02-2026,East,Clothing,Jacket,1,3200,0.1,2880
+ORD0780,15-02-2026,West,Furniture,Table,1,10000,0.1,9000
+ORD0306,15-02-2026,East,Electronics,Monitor,2,15000,0.05,28500
+ORD0656,16-02-2026,North,Clothing,Jeans,2,1800,0.05,3420
+ORD0740,16-02-2026,East,Office Supplies,Notebook,3,180,0,540
+ORD0269,16-02-2026,East,Clothing,Jeans,5,1800,0,9000
+ORD0149,16-02-2026,North,Office Supplies,Notebook,3,180,0,540
+ORD0479,16-02-2026,East,Electronics,Smartphone,4,28000,0.05,106400
+ORD0811,17-02-2026,North,Office Supplies,Pen Set,5,250,0,1250
+ORD0150,17-02-2026,North,Office Supplies,Stapler,6,220,0,1320
+ORD0048,17-02-2026,West,Office Supplies,Notebook,1,180,0,180
+ORD0005,18-02-2026,East,Furniture,Desk,5,12000,0,60000
+ORD0207,18-02-2026,East,Furniture,Table,7,10000,0.15,59500
+ORD0805,18-02-2026,North,Office Supplies,Printer Paper,4,450,0.05,1710
+ORD0328,18-02-2026,South,Furniture,Bookshelf,1,8000,0.1,7200
+ORD0317,18-02-2026,West,Clothing,Jeans,2,1800,0,3600
+ORD0138,19-02-2026,South,Electronics,Smartphone,4,28000,0.15,95200
+ORD0330,19-02-2026,North,Office Supplies,Pen Set,4,250,0.05,950
+ORD0592,19-02-2026,South,Electronics,Headphones,3,3500,0,10500
+ORD0132,20-02-2026,North,Electronics,Smartphone,1,28000,0,28000
+ORD0574,20-02-2026,East,Furniture,Office Chair,1,6500,0.05,6175
+ORD0721,20-02-2026,West,Office Supplies,Notebook,1,180,0.05,171
+ORD0925,20-02-2026,South,Clothing,Jeans,1,1800,0.05,1710
+ORD0527,20-02-2026,East,Office Supplies,Printer Paper,4,450,0.1,1620
+ORD0372,20-02-2026,East,Electronics,Headphones,1,3500,0.05,3325
+ORD0070,20-02-2026,North,Furniture,Desk,7,12000,0.05,79800
+ORD0424,21-02-2026,West,Clothing,Jacket,4,3200,0,12800
+ORD0905,21-02-2026,South,Furniture,Bookshelf,4,8000,0.15,27200
+ORD0753,22-02-2026,East,Electronics,Headphones,2,3500,0,7000
+ORD0232,22-02-2026,East,Furniture,Bookshelf,2,8000,0.05,15200
+ORD0142,22-02-2026,South,Clothing,Sneakers,5,2800,0.15,11900
+ORD0651,23-02-2026,West,Office Supplies,Notebook,1,180,0.1,162
+ORD0654,23-02-2026,South,Clothing,Sneakers,5,2800,0.05,13300
+ORD0063,23-02-2026,South,Office Supplies,Pen Set,1,250,0,250
+ORD0605,23-02-2026,North,Electronics,Headphones,5,3500,0.05,16625
+ORD0135,23-02-2026,West,Clothing,Jacket,2,3200,0.1,5760
+ORD0563,23-02-2026,South,Furniture,Table,6,10000,0,60000
+ORD0758,23-02-2026,South,Clothing,T-Shirt,2,700,0,1400
+ORD0843,24-02-2026,South,Electronics,Headphones,5,3500,0.05,16625
+ORD0892,24-02-2026,North,Electronics,Laptop,6,55000,0,330000
+ORD0629,24-02-2026,East,Furniture,Bookshelf,6,8000,0,48000
+ORD0354,24-02-2026,East,Clothing,Jeans,7,1800,0.05,11970
+ORD0279,25-02-2026,West,Office Supplies,Notebook,3,180,0.1,486
+ORD0326,25-02-2026,North,Electronics,Headphones,6,3500,0,21000
+ORD0948,26-02-2026,West,Clothing,Jacket,7,3200,0.05,21280
+ORD0664,26-02-2026,South,Furniture,Bookshelf,2,8000,0,16000
+ORD0856,26-02-2026,West,Electronics,Laptop,7,55000,0.05,365750
+ORD0894,26-02-2026,West,Office Supplies,Printer Paper,4,450,0,1800
+ORD0533,26-02-2026,North,Electronics,Headphones,7,3500,0,24500
+ORD0744,27-02-2026,North,Furniture,Desk,1,12000,0,12000
+ORD0071,27-02-2026,South,Electronics,Smartphone,5,28000,0.1,126000
+ORD0475,27-02-2026,South,Electronics,Monitor,5,15000,0.05,71250
+ORD0888,28-02-2026,South,Clothing,Jacket,6,3200,0.05,18240
+ORD0266,28-02-2026,West,Office Supplies,Notebook,7,180,0.15,1071
+ORD0161,28-02-2026,North,Furniture,Desk,2,12000,0,24000
+ORD0281,28-02-2026,West,Clothing,Sneakers,4,2800,0.1,10080
+ORD0868,01-03-2026,South,Office Supplies,Pen Set,3,250,0,750
+ORD0277,01-03-2026,West,Office Supplies,Pen Set,2,250,0,500
+ORD0863,01-03-2026,South,Furniture,Table,5,10000,0,50000
+ORD0046,01-03-2026,North,Furniture,Table,2,10000,0.15,17000
+ORD0782,02-03-2026,North,Furniture,Table,1,10000,0,10000
+ORD0270,02-03-2026,East,Clothing,Jacket,4,3200,0.15,10880
+ORD0077,03-03-2026,East,Office Supplies,Pen Set,5,250,0,1250
+ORD0179,03-03-2026,West,Electronics,Headphones,3,3500,0.05,9975
+ORD0034,03-03-2026,North,Electronics,Monitor,1,15000,0,15000
+ORD0979,03-03-2026,South,Furniture,Bookshelf,2,8000,0,16000
+ORD0971,04-03-2026,North,Electronics,Laptop,6,55000,0,330000
+ORD0474,04-03-2026,South,Office Supplies,Stapler,4,220,0,880
+ORD0970,04-03-2026,West,Clothing,Jacket,7,3200,0.05,21280
+ORD0018,04-03-2026,East,Furniture,Office Chair,4,6500,0,26000
+ORD0173,04-03-2026,North,Electronics,Monitor,2,15000,0,30000
+ORD0977,04-03-2026,West,Clothing,T-Shirt,4,700,0.05,2660
+ORD0289,04-03-2026,West,Clothing,Jeans,1,1800,0.15,1530
+ORD0795,05-03-2026,North,Electronics,Headphones,5,3500,0.05,16625
+ORD0548,05-03-2026,South,Clothing,Jeans,4,1800,0.05,6840
+ORD0484,05-03-2026,North,Clothing,Jeans,3,1800,0,5400
+ORD0007,05-03-2026,North,Electronics,Smartphone,3,28000,0,84000
+ORD0942,06-03-2026,East,Office Supplies,Notebook,7,180,0,1260
+ORD0897,06-03-2026,East,Clothing,Sneakers,3,2800,0,8400
+ORD0620,06-03-2026,West,Clothing,Jacket,6,3200,0,19200
+ORD0660,06-03-2026,West,Clothing,Jeans,4,1800,0,7200
+ORD0068,06-03-2026,West,Office Supplies,Notebook,4,180,0.1,648
+ORD0551,06-03-2026,West,Office Supplies,Notebook,2,180,0.1,324
+ORD0411,07-03-2026,East,Furniture,Office Chair,7,6500,0,45500
+ORD0850,07-03-2026,North,Office Supplies,Pen Set,6,250,0.1,1350
+ORD0137,07-03-2026,East,Electronics,Headphones,5,3500,0.05,16625
+ORD0691,07-03-2026,East,Clothing,T-Shirt,2,700,0,1400
+ORD0464,07-03-2026,North,Office Supplies,Pen Set,7,250,0.05,1662.5
+ORD0158,08-03-2026,North,Clothing,Sneakers,1,2800,0.05,2660
+ORD0983,09-03-2026,North,Office Supplies,Printer Paper,5,450,0,2250
+ORD0904,09-03-2026,South,Furniture,Desk,7,12000,0.05,79800
+ORD0709,10-03-2026,East,Office Supplies,Stapler,4,220,0,880
+ORD0082,10-03-2026,East,Clothing,T-Shirt,5,700,0,3500
+ORD0191,10-03-2026,West,Office Supplies,Stapler,2,220,0,440
+ORD0085,10-03-2026,West,Furniture,Bookshelf,2,8000,0.05,15200
+ORD0491,11-03-2026,West,Furniture,Bookshelf,2,8000,0.1,14400
+ORD0493,11-03-2026,East,Furniture,Desk,1,12000,0.1,10800
+ORD0288,11-03-2026,East,Office Supplies,Stapler,5,220,0.1,990
+ORD0989,12-03-2026,South,Furniture,Bookshelf,7,8000,0,56000
+ORD0859,12-03-2026,West,Furniture,Desk,3,12000,0.1,32400
+ORD0377,12-03-2026,East,Office Supplies,Pen Set,7,250,0.05,1662.5
+ORD0303,13-03-2026,West,Furniture,Bookshelf,4,8000,0.05,30400
+ORD0567,13-03-2026,West,Electronics,Monitor,4,15000,0.05,57000
+ORD0276,13-03-2026,East,Electronics,Monitor,4,15000,0,60000
+ORD0878,13-03-2026,North,Clothing,Jeans,4,1800,0.15,6120
+ORD0356,13-03-2026,North,Clothing,Sneakers,1,2800,0,2800
+ORD0887,13-03-2026,South,Office Supplies,Notebook,1,180,0,180
+ORD0180,13-03-2026,East,Furniture,Desk,1,12000,0.05,11400
+ORD0881,13-03-2026,South,Furniture,Office Chair,6,6500,0.15,33150
+ORD0768,14-03-2026,North,Office Supplies,Printer Paper,6,450,0,2700
+ORD0541,14-03-2026,East,Clothing,T-Shirt,7,700,0.05,4655
+ORD0747,15-03-2026,South,Office Supplies,Printer Paper,2,450,0,900
+ORD0105,16-03-2026,South,Electronics,Headphones,7,3500,0.05,23275
+ORD0851,16-03-2026,West,Clothing,Jeans,4,1800,0,7200
+ORD0895,16-03-2026,South,Clothing,Jacket,1,3200,0.1,2880
+ORD0683,17-03-2026,East,Clothing,Sneakers,3,2800,0.15,7140
+ORD0555,17-03-2026,North,Office Supplies,Stapler,4,220,0,880
+ORD0176,17-03-2026,East,Furniture,Office Chair,3,6500,0.1,17550
+ORD0999,17-03-2026,South,Office Supplies,Pen Set,4,250,0,1000
+ORD0525,17-03-2026,West,Furniture,Office Chair,2,6500,0.1,11700
+ORD0681,18-03-2026,South,Electronics,Laptop,1,55000,0.15,46750
+ORD0766,18-03-2026,West,Clothing,Jacket,4,3200,0.1,11520
+ORD0595,18-03-2026,East,Office Supplies,Stapler,1,220,0.15,187
+ORD0373,19-03-2026,North,Electronics,Laptop,6,55000,0,330000
+ORD0210,19-03-2026,East,Office Supplies,Stapler,3,220,0,660
+ORD0417,19-03-2026,West,Clothing,Sneakers,4,2800,0,11200
+ORD0933,19-03-2026,North,Electronics,Laptop,6,55000,0.05,313500
+ORD0738,19-03-2026,North,Office Supplies,Notebook,5,180,0.05,855
+ORD0969,20-03-2026,East,Electronics,Smartphone,3,28000,0.05,79800
+ORD0304,20-03-2026,East,Electronics,Laptop,5,55000,0.1,247500
+ORD0637,20-03-2026,North,Office Supplies,Printer Paper,1,450,0.05,427.5
+ORD0741,20-03-2026,East,Clothing,T-Shirt,4,700,0.05,2660
+ORD0410,21-03-2026,East,Clothing,Jeans,6,1800,0.1,9720
+ORD0686,21-03-2026,South,Furniture,Office Chair,3,6500,0,19500
+ORD0371,21-03-2026,East,Office Supplies,Notebook,7,180,0,1260
+ORD0472,21-03-2026,South,Office Supplies,Pen Set,3,250,0,750
+ORD0577,22-03-2026,North,Office Supplies,Printer Paper,6,450,0,2700
+ORD0688,22-03-2026,East,Furniture,Desk,1,12000,0.05,11400
+ORD0092,22-03-2026,South,Electronics,Headphones,2,3500,0.05,6650
+ORD0872,22-03-2026,West,Furniture,Bookshelf,7,8000,0.1,50400
+ORD0873,23-03-2026,North,Clothing,Sneakers,2,2800,0,5600
+ORD0602,23-03-2026,West,Office Supplies,Printer Paper,5,450,0.15,1912.5
+ORD0636,23-03-2026,West,Furniture,Bookshelf,7,8000,0,56000
+ORD0362,24-03-2026,North,Clothing,Jeans,5,1800,0.1,8100
+ORD0421,24-03-2026,North,Electronics,Monitor,7,15000,0.15,89250
+ORD0884,25-03-2026,East,Office Supplies,Notebook,7,180,0,1260
+ORD0260,25-03-2026,North,Furniture,Desk,1,12000,0,12000
+ORD0825,25-03-2026,South,Clothing,Jacket,7,3200,0,22400
+ORD0298,25-03-2026,South,Office Supplies,Stapler,2,220,0.1,396
+ORD0560,25-03-2026,West,Office Supplies,Pen Set,3,250,0,750
+ORD0050,25-03-2026,South,Electronics,Monitor,4,15000,0.1,54000
+ORD0127,26-03-2026,South,Clothing,Sneakers,7,2800,0,19600
+ORD0837,26-03-2026,North,Office Supplies,Printer Paper,3,450,0.05,1282.5
+ORD0770,26-03-2026,South,Clothing,T-Shirt,2,700,0.1,1260
+ORD0405,26-03-2026,South,Furniture,Desk,5,12000,0,60000
+ORD0899,26-03-2026,West,Clothing,Sneakers,2,2800,0.05,5320
+ORD0313,27-03-2026,West,Clothing,Sneakers,7,2800,0.05,18620
+ORD0489,27-03-2026,West,Electronics,Monitor,4,15000,0,60000
+ORD0800,27-03-2026,West,Office Supplies,Stapler,1,220,0.05,209
+ORD0099,27-03-2026,North,Clothing,Jeans,4,1800,0.1,6480
+ORD0224,27-03-2026,West,Office Supplies,Pen Set,5,250,0,1250
+ORD0712,27-03-2026,East,Electronics,Monitor,3,15000,0.1,40500
+ORD0064,27-03-2026,East,Clothing,Jeans,2,1800,0.05,3420
+ORD0594,28-03-2026,South,Electronics,Smartphone,4,28000,0,112000
+ORD0774,29-03-2026,West,Office Supplies,Printer Paper,5,450,0.05,2137.5
+ORD0438,29-03-2026,North,Office Supplies,Printer Paper,1,450,0,450
+ORD0204,29-03-2026,North,Electronics,Headphones,4,3500,0,14000
+ORD0002,29-03-2026,North,Electronics,Headphones,7,3500,0,24500
+ORD0458,29-03-2026,West,Clothing,Jacket,7,3200,0.05,21280
+ORD0017,30-03-2026,East,Furniture,Office Chair,7,6500,0,45500
+ORD0079,30-03-2026,West,Furniture,Table,6,10000,0,60000
+ORD0363,30-03-2026,North,Clothing,Sneakers,6,2800,0.05,15960
+ORD0497,30-03-2026,North,Electronics,Monitor,1,15000,0.05,14250
+ORD0338,30-03-2026,North,Office Supplies,Printer Paper,6,450,0.05,2565
+ORD0669,31-03-2026,West,Office Supplies,Printer Paper,4,450,0,1800
+ORD0972,31-03-2026,West,Furniture,Table,5,10000,0,50000
+ORD0111,31-03-2026,East,Clothing,Jeans,7,1800,0,12600
+ORD0832,01-04-2026,East,Clothing,T-Shirt,2,700,0,1400
+ORD0556,01-04-2026,East,Clothing,Sneakers,2,2800,0,5600
+ORD0529,01-04-2026,East,Office Supplies,Stapler,3,220,0.1,594
+ORD0697,01-04-2026,South,Clothing,Sneakers,5,2800,0.05,13300
+ORD0661,02-04-2026,South,Furniture,Table,7,10000,0,70000
+ORD0426,02-04-2026,South,Furniture,Office Chair,3,6500,0,19500
+ORD0814,02-04-2026,North,Electronics,Monitor,5,15000,0,75000
+ORD0616,03-04-2026,South,Clothing,Sneakers,2,2800,0.05,5320
+ORD0341,03-04-2026,South,Clothing,Jeans,6,1800,0,10800
+ORD0051,03-04-2026,South,Electronics,Smartphone,1,28000,0.05,26600
+ORD0177,03-04-2026,West,Electronics,Monitor,6,15000,0,90000
+ORD0418,03-04-2026,East,Furniture,Table,7,10000,0.05,66500
+ORD0847,03-04-2026,South,Office Supplies,Pen Set,2,250,0.05,475
+ORD0074,04-04-2026,East,Furniture,Desk,5,12000,0,60000
+ORD0891,04-04-2026,South,Clothing,Sneakers,2,2800,0,5600
+ORD0914,05-04-2026,South,Office Supplies,Pen Set,7,250,0,1750
+ORD0984,05-04-2026,East,Clothing,T-Shirt,2,700,0,1400
+ORD0091,05-04-2026,South,Clothing,Sneakers,5,2800,0,14000
+ORD0190,05-04-2026,East,Electronics,Monitor,5,15000,0.05,71250
+ORD0413,05-04-2026,South,Office Supplies,Notebook,6,180,0,1080
+ORD0310,05-04-2026,South,Furniture,Desk,2,12000,0.05,22800
+ORD0809,06-04-2026,East,Furniture,Bookshelf,2,8000,0,16000
+ORD0257,06-04-2026,East,Electronics,Laptop,5,55000,0,275000
+ORD0722,06-04-2026,East,Clothing,Jacket,2,3200,0.05,6080
+ORD0353,06-04-2026,South,Clothing,T-Shirt,7,700,0.05,4655
+ORD0638,06-04-2026,South,Electronics,Smartphone,5,28000,0,140000
+ORD0727,06-04-2026,West,Furniture,Desk,7,12000,0.05,79800
+ORD0995,06-04-2026,North,Electronics,Monitor,6,15000,0,90000
+ORD0521,07-04-2026,West,Electronics,Headphones,5,3500,0.05,16625
+ORD0181,07-04-2026,East,Office Supplies,Stapler,3,220,0.05,627
+ORD0536,08-04-2026,West,Clothing,Jacket,7,3200,0,22400
+ORD0228,08-04-2026,East,Furniture,Desk,2,12000,0.1,21600
+ORD0331,08-04-2026,West,Office Supplies,Notebook,4,180,0,720
+ORD0813,09-04-2026,North,Furniture,Table,2,10000,0.1,18000
+ORD0624,09-04-2026,West,Furniture,Desk,7,12000,0,84000
+ORD0151,09-04-2026,North,Electronics,Monitor,1,15000,0,15000
+ORD0650,10-04-2026,East,Clothing,T-Shirt,2,700,0.05,1330
+ORD0584,10-04-2026,West,Office Supplies,Pen Set,3,250,0.05,712.5
+ORD0485,10-04-2026,South,Office Supplies,Notebook,2,180,0.1,324
+ORD0978,10-04-2026,South,Furniture,Table,2,10000,0,20000
+ORD0285,10-04-2026,South,Furniture,Desk,7,12000,0,84000
+ORD0439,11-04-2026,West,Electronics,Monitor,4,15000,0.05,57000
+ORD0973,11-04-2026,South,Electronics,Smartphone,5,28000,0.05,133000
+ORD0645,11-04-2026,North,Electronics,Laptop,5,55000,0.1,247500
+ORD0130,12-04-2026,East,Clothing,T-Shirt,5,700,0.15,2975
+ORD0361,12-04-2026,East,Clothing,T-Shirt,6,700,0,4200
+ORD0609,12-04-2026,East,Clothing,Jacket,7,3200,0,22400
+ORD0684,12-04-2026,South,Furniture,Desk,3,12000,0,36000
+ORD0311,12-04-2026,North,Furniture,Office Chair,1,6500,0.1,5850
+ORD0423,13-04-2026,West,Office Supplies,Stapler,1,220,0.05,209
+ORD0480,13-04-2026,North,Office Supplies,Printer Paper,6,450,0.05,2565
+ORD0711,13-04-2026,South,Furniture,Office Chair,2,6500,0,13000
+ORD0797,13-04-2026,North,Clothing,Jacket,7,3200,0.1,20160
+ORD0902,14-04-2026,East,Furniture,Office Chair,3,6500,0,19500
+ORD0583,14-04-2026,East,Clothing,Jacket,1,3200,0,3200
+ORD0193,14-04-2026,South,Furniture,Bookshelf,4,8000,0.1,28800
+ORD0941,14-04-2026,West,Office Supplies,Stapler,2,220,0.1,396
+ORD0829,14-04-2026,North,Clothing,Jacket,7,3200,0.1,20160
+ORD0862,14-04-2026,East,Electronics,Monitor,4,15000,0,60000
+ORD0273,15-04-2026,West,Office Supplies,Pen Set,5,250,0,1250
+ORD0649,15-04-2026,West,Furniture,Desk,6,12000,0.1,64800
+ORD0446,15-04-2026,North,Electronics,Monitor,6,15000,0,90000
+ORD0098,15-04-2026,South,Furniture,Office Chair,7,6500,0.1,40950
+ORD0699,15-04-2026,North,Electronics,Smartphone,3,28000,0,84000
+ORD0996,15-04-2026,South,Furniture,Desk,1,12000,0.05,11400
+ORD0140,16-04-2026,East,Office Supplies,Notebook,7,180,0,1260
+ORD0012,16-04-2026,West,Office Supplies,Pen Set,6,250,0.05,1425
+ORD0461,16-04-2026,South,Office Supplies,Stapler,5,220,0,1100
+ORD0492,17-04-2026,North,Electronics,Monitor,3,15000,0,45000
+ORD0073,18-04-2026,North,Furniture,Table,5,10000,0,50000
+ORD0370,18-04-2026,East,Furniture,Bookshelf,6,8000,0.05,45600
+ORD0749,18-04-2026,East,Clothing,Jacket,1,3200,0,3200
+ORD0345,18-04-2026,East,Clothing,Sneakers,7,2800,0.1,17640
+ORD0951,18-04-2026,West,Clothing,Jeans,2,1800,0,3600
+ORD0252,18-04-2026,West,Office Supplies,Pen Set,7,250,0,1750
+ORD0698,19-04-2026,West,Office Supplies,Pen Set,1,250,0,250
+ORD0559,19-04-2026,North,Electronics,Smartphone,1,28000,0.05,26600
+ORD0440,19-04-2026,East,Electronics,Laptop,7,55000,0.05,365750
+ORD0876,19-04-2026,North,Furniture,Table,6,10000,0.1,54000
+ORD0506,20-04-2026,West,Furniture,Table,2,10000,0,20000
+ORD0213,20-04-2026,South,Clothing,Sneakers,2,2800,0,5600
+ORD0763,20-04-2026,North,Office Supplies,Printer Paper,7,450,0,3150
+ORD0918,20-04-2026,West,Office Supplies,Pen Set,5,250,0.05,1187.5
+ORD0366,20-04-2026,South,Electronics,Smartphone,3,28000,0.05,79800
+ORD0546,20-04-2026,South,Clothing,Sneakers,2,2800,0.05,5320
+ORD0057,21-04-2026,West,Furniture,Office Chair,6,6500,0.05,37050
+ORD0468,21-04-2026,North,Office Supplies,Printer Paper,5,450,0,2250
+ORD0601,21-04-2026,South,Office Supplies,Stapler,5,220,0,1100
+ORD0739,22-04-2026,North,Electronics,Headphones,1,3500,0,3500
+ORD0812,22-04-2026,North,Office Supplies,Notebook,2,180,0.05,342
+ORD0786,22-04-2026,East,Furniture,Table,6,10000,0,60000
+ORD0953,22-04-2026,West,Office Supplies,Notebook,2,180,0.05,342
+ORD0136,22-04-2026,East,Office Supplies,Pen Set,3,250,0,750
+ORD0755,23-04-2026,North,Office Supplies,Notebook,5,180,0,900
+ORD0538,23-04-2026,North,Furniture,Bookshelf,6,8000,0.05,45600
+ORD0561,23-04-2026,South,Office Supplies,Notebook,6,180,0.1,972
+ORD0958,23-04-2026,East,Office Supplies,Printer Paper,6,450,0.05,2565
+ORD0114,23-04-2026,North,Office Supplies,Stapler,6,220,0,1320
+ORD0075,24-04-2026,West,Office Supplies,Stapler,4,220,0,880
+ORD0211,24-04-2026,South,Furniture,Desk,6,12000,0,72000
+ORD0422,25-04-2026,East,Electronics,Laptop,4,55000,0,220000
+ORD0901,25-04-2026,East,Clothing,Jeans,1,1800,0,1800
+ORD0820,25-04-2026,South,Office Supplies,Pen Set,2,250,0,500
+ORD0535,25-04-2026,North,Clothing,Sneakers,5,2800,0.1,12600
+ORD0143,25-04-2026,East,Furniture,Bookshelf,3,8000,0,24000
+ORD0397,26-04-2026,West,Furniture,Bookshelf,2,8000,0,16000
+ORD0477,26-04-2026,North,Furniture,Bookshelf,1,8000,0,8000
+ORD0507,26-04-2026,West,Office Supplies,Stapler,5,220,0.05,1045
+ORD0613,26-04-2026,North,Clothing,Sneakers,7,2800,0,19600
+ORD0425,26-04-2026,East,Office Supplies,Printer Paper,2,450,0,900
+ORD0315,26-04-2026,South,Electronics,Laptop,6,55000,0,330000
+ORD0576,27-04-2026,South,Electronics,Headphones,4,3500,0.05,13300
+ORD0695,27-04-2026,South,Clothing,T-Shirt,3,700,0,2100
+ORD0478,28-04-2026,North,Office Supplies,Printer Paper,7,450,0.15,2677.5
+ORD0389,28-04-2026,North,Electronics,Laptop,2,55000,0,110000
+ORD0482,28-04-2026,North,Electronics,Headphones,1,3500,0.05,3325
+ORD0380,28-04-2026,North,Office Supplies,Printer Paper,5,450,0.05,2137.5
+ORD0604,28-04-2026,East,Electronics,Laptop,1,55000,0.05,52250
+ORD0401,28-04-2026,North,Furniture,Bookshelf,4,8000,0.15,27200
+ORD0116,28-04-2026,North,Clothing,T-Shirt,7,700,0.1,4410
+ORD0911,28-04-2026,South,Furniture,Desk,3,12000,0,36000
+ORD0166,28-04-2026,North,Office Supplies,Printer Paper,4,450,0,1800
+ORD0297,29-04-2026,North,Furniture,Office Chair,1,6500,0,6500
+ORD0352,29-04-2026,West,Furniture,Table,2,10000,0,20000
+ORD0848,29-04-2026,East,Electronics,Monitor,2,15000,0.1,27000
+ORD0471,29-04-2026,East,Furniture,Office Chair,5,6500,0,32500
+ORD0452,30-04-2026,North,Electronics,Monitor,3,15000,0.1,40500
+ORD0261,30-04-2026,South,Office Supplies,Notebook,3,180,0.05,513
+ORD0767,30-04-2026,East,Electronics,Smartphone,6,28000,0.05,159600
+ORD0379,30-04-2026,North,Office Supplies,Printer Paper,6,450,0.05,2565
+ORD0879,30-04-2026,West,Office Supplies,Printer Paper,6,450,0,2700
+ORD0640,01-05-2026,North,Clothing,Sneakers,5,2800,0.1,12600
+ORD0263,01-05-2026,West,Clothing,Jacket,1,3200,0,3200
+ORD0692,01-05-2026,North,Office Supplies,Printer Paper,6,450,0,2700
+ORD0466,01-05-2026,South,Clothing,Sneakers,1,2800,0,2800
+ORD0031,01-05-2026,West,Clothing,T-Shirt,1,700,0.05,665
+ORD0399,01-05-2026,East,Clothing,Jacket,2,3200,0,6400
+ORD0343,01-05-2026,East,Clothing,T-Shirt,6,700,0,4200
+ORD0078,02-05-2026,North,Furniture,Table,5,10000,0,50000
+ORD0919,02-05-2026,North,Office Supplies,Notebook,5,180,0.05,855
+ORD0916,02-05-2026,North,Furniture,Office Chair,2,6500,0,13000
+ORD0720,03-05-2026,North,Furniture,Table,4,10000,0.05,38000
+ORD0019,03-05-2026,North,Electronics,Monitor,3,15000,0.1,40500
+ORD0208,03-05-2026,West,Office Supplies,Notebook,6,180,0.05,1026
+ORD0187,03-05-2026,South,Electronics,Smartphone,2,28000,0.1,50400
+ORD0857,04-05-2026,East,Clothing,T-Shirt,6,700,0,4200
+ORD0301,04-05-2026,South,Furniture,Bookshelf,3,8000,0,24000
+ORD0531,04-05-2026,North,Electronics,Headphones,6,3500,0.1,18900
+ORD0736,04-05-2026,North,Clothing,Jeans,4,1800,0.05,6840
+ORD0830,05-05-2026,West,Clothing,Jeans,3,1800,0.1,4860
+ORD0617,06-05-2026,North,Office Supplies,Pen Set,2,250,0,500
+ORD0320,07-05-2026,East,Office Supplies,Pen Set,4,250,0,1000
+ORD0838,07-05-2026,East,Office Supplies,Notebook,4,180,0.15,612
+ORD0566,07-05-2026,South,Office Supplies,Pen Set,3,250,0.05,712.5
+ORD0495,08-05-2026,South,Clothing,Jeans,2,1800,0,3600
+ORD0101,08-05-2026,West,Electronics,Headphones,4,3500,0.15,11900
+ORD0054,08-05-2026,North,Office Supplies,Stapler,7,220,0.05,1463
+ORD0351,08-05-2026,South,Office Supplies,Stapler,6,220,0,1320
+ORD0528,08-05-2026,South,Electronics,Headphones,1,3500,0,3500
+ORD0037,09-05-2026,East,Furniture,Bookshelf,5,8000,0,40000
+ORD0706,09-05-2026,East,Furniture,Desk,7,12000,0.1,75600
+ORD0756,09-05-2026,South,Office Supplies,Notebook,1,180,0.05,171
+ORD0778,09-05-2026,West,Clothing,Jacket,3,3200,0.1,8640
+ORD0929,09-05-2026,East,Electronics,Headphones,4,3500,0,14000
+ORD0044,09-05-2026,East,Clothing,Sneakers,7,2800,0.1,17640
+ORD0822,09-05-2026,South,Furniture,Desk,3,12000,0.05,34200
+ORD0794,09-05-2026,South,Electronics,Smartphone,2,28000,0,56000
+ORD0994,10-05-2026,West,Clothing,Jeans,2,1800,0.1,3240
+ORD0435,10-05-2026,West,Clothing,T-Shirt,1,700,0.1,630
+ORD0222,10-05-2026,East,Clothing,Sneakers,3,2800,0,8400
+ORD0746,11-05-2026,South,Electronics,Laptop,4,55000,0,220000
+ORD0509,11-05-2026,West,Office Supplies,Pen Set,1,250,0,250
+ORD0658,11-05-2026,East,Office Supplies,Pen Set,2,250,0,500
+ORD0035,11-05-2026,North,Furniture,Table,6,10000,0.05,57000
+ORD0333,11-05-2026,North,Clothing,Jeans,6,1800,0,10800
+ORD0798,11-05-2026,East,Clothing,Jeans,1,1800,0.1,1620
+ORD0392,11-05-2026,North,Electronics,Monitor,5,15000,0.1,67500
+ORD0496,11-05-2026,East,Office Supplies,Pen Set,5,250,0,1250
+ORD0164,11-05-2026,East,Clothing,Sneakers,7,2800,0.1,17640
+ORD0968,12-05-2026,East,Electronics,Smartphone,4,28000,0,112000
+ORD0729,12-05-2026,West,Clothing,T-Shirt,6,700,0.1,3780
+ORD0667,12-05-2026,West,Office Supplies,Stapler,5,220,0,1100
+ORD0703,12-05-2026,East,Clothing,Jeans,5,1800,0,9000
+ORD0808,12-05-2026,East,Office Supplies,Stapler,3,220,0.05,627
+ORD0522,13-05-2026,East,Office Supplies,Pen Set,2,250,0,500
+ORD0168,13-05-2026,South,Office Supplies,Pen Set,3,250,0.1,675
+ORD0955,13-05-2026,West,Clothing,Sneakers,1,2800,0.05,2660
+ORD0844,13-05-2026,East,Furniture,Bookshelf,3,8000,0,24000
+ORD0639,14-05-2026,North,Office Supplies,Printer Paper,2,450,0.05,855
+ORD0787,14-05-2026,West,Furniture,Bookshelf,5,8000,0.05,38000
+ORD0731,14-05-2026,West,Electronics,Laptop,5,55000,0.05,261250
+ORD0124,14-05-2026,South,Office Supplies,Notebook,5,180,0.1,810
+ORD0828,14-05-2026,North,Office Supplies,Stapler,6,220,0.05,1254
+ORD0743,16-05-2026,South,Furniture,Bookshelf,2,8000,0.1,14400
+ORD0909,17-05-2026,East,Furniture,Table,6,10000,0,60000
+ORD0196,17-05-2026,South,Office Supplies,Notebook,4,180,0,720
+ORD0107,17-05-2026,South,Clothing,Jeans,5,1800,0,9000
+ORD0810,17-05-2026,West,Furniture,Desk,6,12000,0.1,64800
+ORD0789,18-05-2026,East,Electronics,Smartphone,3,28000,0,84000
+ORD0765,18-05-2026,South,Office Supplies,Printer Paper,2,450,0,900
+ORD0284,18-05-2026,West,Clothing,Jacket,7,3200,0.1,20160
+ORD0490,18-05-2026,West,Furniture,Bookshelf,4,8000,0.1,28800
+ORD0172,18-05-2026,West,Furniture,Table,2,10000,0.05,19000
+ORD0481,18-05-2026,South,Clothing,T-Shirt,1,700,0.05,665
+ORD0387,18-05-2026,North,Office Supplies,Stapler,7,220,0.05,1463
+ORD0819,19-05-2026,East,Clothing,Jeans,4,1800,0.05,6840
+ORD0431,19-05-2026,East,Electronics,Laptop,3,55000,0,165000
+ORD0102,20-05-2026,North,Office Supplies,Printer Paper,5,450,0,2250
+ORD0434,21-05-2026,North,Furniture,Desk,2,12000,0.1,21600
+ORD0679,21-05-2026,East,Clothing,Jeans,6,1800,0.05,10260
+ORD0870,21-05-2026,North,Office Supplies,Notebook,2,180,0.05,342
+ORD0910,22-05-2026,North,Electronics,Monitor,7,15000,0,105000
+ORD0542,22-05-2026,West,Office Supplies,Notebook,4,180,0.05,684
+ORD0404,22-05-2026,West,Office Supplies,Stapler,6,220,0,1320
+ORD0943,22-05-2026,North,Furniture,Office Chair,6,6500,0.05,37050
+ORD0104,22-05-2026,East,Electronics,Laptop,2,55000,0.15,93500
+ORD0871,23-05-2026,South,Office Supplies,Printer Paper,4,450,0.1,1620
+ORD0494,23-05-2026,West,Electronics,Monitor,3,15000,0.15,38250
+ORD0442,23-05-2026,East,Furniture,Desk,4,12000,0,48000
+ORD0670,23-05-2026,West,Clothing,T-Shirt,4,700,0.05,2660
+ORD0846,23-05-2026,West,Electronics,Monitor,7,15000,0.05,99750
+ORD0513,23-05-2026,West,Office Supplies,Notebook,7,180,0.05,1197
+ORD0103,24-05-2026,North,Office Supplies,Notebook,4,180,0.1,648
+ORD0144,24-05-2026,West,Electronics,Headphones,7,3500,0,24500
+ORD0815,24-05-2026,East,Furniture,Desk,5,12000,0,60000
+ORD0081,24-05-2026,East,Office Supplies,Printer Paper,3,450,0,1350
+ORD0853,24-05-2026,South,Electronics,Laptop,4,55000,0.1,198000
+ORD0109,25-05-2026,East,Office Supplies,Notebook,1,180,0.1,162
+ORD0355,25-05-2026,South,Clothing,Jeans,6,1800,0.05,10260
+ORD0141,25-05-2026,South,Office Supplies,Notebook,4,180,0.05,684
+ORD0630,25-05-2026,North,Electronics,Headphones,5,3500,0.1,15750
+ORD0106,25-05-2026,North,Clothing,T-Shirt,2,700,0.1,1260
+ORD0954,25-05-2026,West,Electronics,Headphones,2,3500,0,7000
+ORD0534,25-05-2026,East,Furniture,Table,6,10000,0.1,54000
+ORD0312,25-05-2026,West,Electronics,Smartphone,3,28000,0,84000
+ORD0039,25-05-2026,East,Office Supplies,Printer Paper,3,450,0,1350
+ORD0890,25-05-2026,South,Office Supplies,Printer Paper,2,450,0.1,810
+ORD0803,26-05-2026,East,Electronics,Smartphone,6,28000,0.05,159600
+ORD0375,26-05-2026,South,Office Supplies,Stapler,2,220,0.05,418
+ORD0614,27-05-2026,East,Furniture,Office Chair,1,6500,0.1,5850
+ORD0220,27-05-2026,West,Electronics,Headphones,1,3500,0,3500
+ORD0146,27-05-2026,North,Office Supplies,Pen Set,5,250,0,1250
+ORD0791,27-05-2026,South,Electronics,Headphones,7,3500,0,24500
+ORD0940,27-05-2026,West,Clothing,Sneakers,3,2800,0,8400
+ORD0483,27-05-2026,South,Office Supplies,Printer Paper,5,450,0.1,2025
+ORD0742,28-05-2026,North,Electronics,Headphones,6,3500,0.05,19950
+ORD0586,28-05-2026,East,Electronics,Monitor,1,15000,0,15000
+ORD0364,29-05-2026,East,Furniture,Table,2,10000,0,20000
+ORD0454,29-05-2026,South,Clothing,Jeans,5,1800,0.1,8100
+ORD0147,29-05-2026,South,Electronics,Monitor,2,15000,0,30000
+ORD0428,29-05-2026,South,Electronics,Laptop,6,55000,0.1,297000
+ORD0701,29-05-2026,East,Clothing,T-Shirt,3,700,0.05,1995
+ORD0245,29-05-2026,North,Electronics,Monitor,3,15000,0.05,42750
+ORD0553,30-05-2026,West,Electronics,Headphones,2,3500,0,7000
+ORD0539,30-05-2026,West,Furniture,Desk,2,12000,0.15,20400
+ORD0237,30-05-2026,North,Clothing,Jacket,7,3200,0.15,19040
+ORD0921,31-05-2026,West,Clothing,Sneakers,3,2800,0.05,7980
+ORD0762,31-05-2026,East,Office Supplies,Stapler,7,220,0,1540
+ORD0026,31-05-2026,East,Furniture,Table,4,10000,0.1,36000
+ORD0197,31-05-2026,North,Electronics,Smartphone,1,28000,0.1,25200
+ORD0634,01-06-2026,East,Electronics,Monitor,6,15000,0.1,81000
+ORD0033,01-06-2026,East,Office Supplies,Notebook,3,180,0,540
+ORD0049,01-06-2026,West,Clothing,Sneakers,6,2800,0.1,15120
+ORD0912,01-06-2026,North,Clothing,Sneakers,2,2800,0,5600
+ORD0569,02-06-2026,East,Office Supplies,Stapler,2,220,0.05,418
+ORD0274,02-06-2026,South,Furniture,Table,5,10000,0.1,45000
+ORD0842,02-06-2026,South,Office Supplies,Notebook,2,180,0.05,342
+ORD0368,03-06-2026,North,Office Supplies,Pen Set,4,250,0,1000
+ORD0591,03-06-2026,East,Clothing,Jacket,3,3200,0,9600
+ORD0760,03-06-2026,East,Furniture,Office Chair,3,6500,0.05,18525
+ORD0032,04-06-2026,North,Furniture,Bookshelf,7,8000,0,56000
+ORD0690,05-06-2026,South,Clothing,Sneakers,5,2800,0,14000
+ORD0673,05-06-2026,East,Electronics,Laptop,4,55000,0,220000
+ORD0205,05-06-2026,South,Furniture,Bookshelf,3,8000,0.05,22800
+ORD0960,05-06-2026,South,Furniture,Table,7,10000,0,70000
+ORD0889,05-06-2026,North,Clothing,T-Shirt,7,700,0,4900
+ORD0759,05-06-2026,East,Electronics,Headphones,5,3500,0.1,15750
+ORD0120,05-06-2026,North,Furniture,Table,6,10000,0.05,57000
+ORD0668,05-06-2026,North,Electronics,Laptop,5,55000,0,275000
+ORD0748,06-06-2026,East,Clothing,Jacket,7,3200,0,22400
+ORD0212,06-06-2026,East,Office Supplies,Printer Paper,4,450,0,1800
+ORD0374,06-06-2026,East,Office Supplies,Notebook,4,180,0.05,684
+ORD0776,06-06-2026,North,Furniture,Desk,6,12000,0,72000
+ORD0451,07-06-2026,West,Office Supplies,Pen Set,1,250,0,250
+ORD0059,07-06-2026,North,Clothing,Sneakers,1,2800,0.15,2380
+ORD0590,07-06-2026,West,Electronics,Laptop,5,55000,0.15,233750
+ORD0834,07-06-2026,East,Clothing,T-Shirt,3,700,0,2100
+ORD0473,07-06-2026,South,Office Supplies,Stapler,6,220,0.05,1254
+ORD0118,08-06-2026,North,Office Supplies,Notebook,1,180,0.05,171
+ORD0835,08-06-2026,South,Electronics,Laptop,3,55000,0,165000
+ORD0988,08-06-2026,East,Office Supplies,Stapler,6,220,0,1320
+ORD0110,08-06-2026,East,Clothing,T-Shirt,4,700,0,2800
+ORD0633,09-06-2026,South,Furniture,Table,6,10000,0,60000
+ORD0027,09-06-2026,East,Furniture,Bookshelf,5,8000,0,40000
+ORD0694,09-06-2026,North,Furniture,Bookshelf,2,8000,0.15,13600
+ORD0568,10-06-2026,North,Office Supplies,Notebook,4,180,0.05,684
+ORD0571,10-06-2026,East,Clothing,Jeans,2,1800,0.05,3420
+ORD0062,10-06-2026,West,Electronics,Laptop,5,55000,0,275000
+ORD0090,10-06-2026,West,Office Supplies,Notebook,4,180,0,720
+ORD0089,10-06-2026,North,Office Supplies,Pen Set,3,250,0.05,712.5
+ORD0093,11-06-2026,East,Furniture,Desk,2,12000,0,24000
+ORD0597,11-06-2026,North,Office Supplies,Notebook,1,180,0.05,171
+ORD0013,11-06-2026,South,Electronics,Headphones,2,3500,0.1,6300
+ORD0718,11-06-2026,East,Furniture,Desk,2,12000,0,24000
+ORD0202,11-06-2026,East,Clothing,Jeans,7,1800,0,12600
+ORD0134,11-06-2026,South,Furniture,Table,7,10000,0.05,66500
+ORD0998,11-06-2026,West,Clothing,Jacket,3,3200,0.05,9120
+ORD0407,12-06-2026,South,Furniture,Table,2,10000,0.05,19000
+ORD0728,12-06-2026,West,Clothing,T-Shirt,3,700,0.1,1890
+ORD0935,12-06-2026,West,Clothing,Jacket,5,3200,0.05,15200
+ORD0486,12-06-2026,North,Office Supplies,Pen Set,7,250,0.1,1575
+ORD0985,12-06-2026,North,Electronics,Smartphone,6,28000,0,168000
+ORD0827,12-06-2026,East,Furniture,Desk,5,12000,0.1,54000
+ORD0886,13-06-2026,North,Electronics,Monitor,5,15000,0,75000
+ORD0384,13-06-2026,South,Furniture,Desk,1,12000,0,12000
+ORD0185,13-06-2026,North,Office Supplies,Stapler,6,220,0.1,1188
+ORD0042,13-06-2026,East,Office Supplies,Printer Paper,4,450,0,1800
+ORD0713,13-06-2026,East,Electronics,Monitor,6,15000,0.05,85500
+ORD0622,13-06-2026,East,Clothing,Sneakers,1,2800,0.1,2520
+ORD0095,13-06-2026,South,Clothing,Sneakers,1,2800,0.1,2520
+ORD0980,13-06-2026,North,Furniture,Desk,4,12000,0.1,43200
+ORD0011,13-06-2026,South,Office Supplies,Printer Paper,3,450,0.1,1215
+ORD0585,14-06-2026,East,Office Supplies,Printer Paper,2,450,0,900
+ORD0900,14-06-2026,North,Clothing,Jeans,6,1800,0,10800
+ORD0976,14-06-2026,East,Office Supplies,Notebook,2,180,0,360
+ORD0108,15-06-2026,East,Clothing,Jeans,5,1800,0.05,8550
+ORD0775,15-06-2026,South,Electronics,Laptop,7,55000,0.05,365750
+ORD0223,15-06-2026,West,Office Supplies,Stapler,4,220,0.05,836
+ORD0849,15-06-2026,East,Office Supplies,Stapler,6,220,0.05,1254
+ORD0931,15-06-2026,East,Furniture,Office Chair,7,6500,0.1,40950
+ORD0391,16-06-2026,North,Electronics,Smartphone,6,28000,0.05,159600
+ORD0113,16-06-2026,North,Electronics,Monitor,5,15000,0.1,67500
+ORD0510,16-06-2026,West,Furniture,Desk,4,12000,0.1,43200
+ORD0723,16-06-2026,North,Furniture,Office Chair,7,6500,0.05,43225
+ORD0008,16-06-2026,South,Electronics,Headphones,7,3500,0,24500
+ORD0626,17-06-2026,North,Clothing,Jacket,6,3200,0,19200
+ORD0771,17-06-2026,West,Office Supplies,Printer Paper,3,450,0.05,1282.5
+ORD0199,17-06-2026,East,Clothing,Jacket,6,3200,0.05,18240
+ORD0952,17-06-2026,South,Clothing,Jeans,2,1800,0.1,3240
+ORD0530,17-06-2026,West,Electronics,Laptop,2,55000,0,110000
+ORD0572,17-06-2026,West,Office Supplies,Notebook,3,180,0.05,513
+ORD0359,18-06-2026,North,Clothing,Jeans,7,1800,0.15,10710
+ORD0783,18-06-2026,South,Electronics,Laptop,3,55000,0,165000
+ORD0962,18-06-2026,North,Electronics,Smartphone,6,28000,0,168000
+ORD0160,18-06-2026,North,Office Supplies,Notebook,4,180,0,720
+ORD0761,19-06-2026,South,Office Supplies,Notebook,3,180,0.05,513
+ORD0282,19-06-2026,West,Office Supplies,Printer Paper,5,450,0.05,2137.5
+ORD0885,19-06-2026,South,Office Supplies,Stapler,5,220,0.05,1045
+ORD0898,20-06-2026,East,Clothing,Jeans,3,1800,0.1,4860
+ORD0194,20-06-2026,West,Electronics,Laptop,7,55000,0.05,365750
+ORD0587,20-06-2026,East,Electronics,Monitor,2,15000,0.05,28500
+ORD0680,21-06-2026,North,Electronics,Smartphone,6,28000,0,168000
+ORD0396,21-06-2026,South,Furniture,Desk,6,12000,0,72000
+ORD0209,22-06-2026,North,Clothing,Sneakers,6,2800,0,16800
+ORD0950,22-06-2026,East,Furniture,Table,2,10000,0.1,18000
+ORD0324,22-06-2026,West,Office Supplies,Printer Paper,7,450,0.05,2992.5
+ORD0416,22-06-2026,West,Office Supplies,Stapler,1,220,0,220
+ORD0623,23-06-2026,South,Office Supplies,Stapler,7,220,0.05,1463
+ORD0316,23-06-2026,South,Furniture,Desk,6,12000,0.05,68400
+ORD0552,23-06-2026,East,Office Supplies,Printer Paper,4,450,0.1,1620
+ORD0599,23-06-2026,East,Furniture,Bookshelf,2,8000,0,16000
+ORD0487,23-06-2026,West,Clothing,Sneakers,6,2800,0,16800
+ORD0662,24-06-2026,South,Clothing,Jeans,5,1800,0,9000
+ORD0792,24-06-2026,North,Electronics,Monitor,3,15000,0.05,42750
+ORD0524,24-06-2026,West,Office Supplies,Stapler,1,220,0.05,209
+ORD0793,24-06-2026,South,Furniture,Bookshelf,3,8000,0.05,22800
+ORD0959,24-06-2026,North,Clothing,Jacket,2,3200,0.05,6080
+ORD0975,24-06-2026,South,Clothing,T-Shirt,3,700,0.05,1995
+ORD0262,25-06-2026,North,Clothing,Jeans,6,1800,0.05,10260
+ORD0386,25-06-2026,North,Clothing,Jacket,5,3200,0,16000
+ORD0219,25-06-2026,South,Office Supplies,Notebook,6,180,0,1080
+ORD0206,26-06-2026,West,Office Supplies,Printer Paper,1,450,0.15,382.5
+ORD0570,26-06-2026,East,Electronics,Smartphone,5,28000,0.1,126000
+ORD0730,26-06-2026,West,Office Supplies,Printer Paper,6,450,0.05,2565
+ORD0781,26-06-2026,South,Clothing,T-Shirt,4,700,0.05,2660
+ORD0523,27-06-2026,South,Electronics,Laptop,1,55000,0.1,49500
+ORD0498,27-06-2026,North,Office Supplies,Notebook,5,180,0,900
+ORD0214,27-06-2026,East,Furniture,Bookshelf,7,8000,0,56000
+ORD0554,28-06-2026,West,Clothing,Jeans,4,1800,0.1,6480
+ORD0855,28-06-2026,West,Furniture,Bookshelf,7,8000,0,56000
+ORD0503,28-06-2026,North,Electronics,Smartphone,2,28000,0.1,50400
+ORD0242,28-06-2026,South,Electronics,Smartphone,5,28000,0,140000
+ORD0203,28-06-2026,South,Furniture,Bookshelf,3,8000,0.05,22800
+ORD0295,28-06-2026,East,Electronics,Smartphone,7,28000,0.05,186200
+ORD0406,29-06-2026,South,Clothing,T-Shirt,1,700,0,700
+ORD0200,29-06-2026,North,Furniture,Office Chair,5,6500,0,32500
+ORD0414,29-06-2026,East,Electronics,Monitor,6,15000,0.1,81000
+ORD0974,29-06-2026,West,Furniture,Desk,2,12000,0.05,22800
+ORD0581,30-06-2026,South,Furniture,Bookshelf,5,8000,0,40000
+ORD0448,30-06-2026,West,Electronics,Headphones,2,3500,0.05,6650
+ORD0923,30-06-2026,East,Clothing,T-Shirt,5,700,0,3500
+ORD0580,01-07-2026,East,Office Supplies,Notebook,6,180,0.1,972
+ORD0198,01-07-2026,East,Electronics,Laptop,2,55000,0.1,99000
+ORD0427,02-07-2026,South,Clothing,T-Shirt,5,700,0.1,3150
+ORD0186,02-07-2026,North,Electronics,Laptop,5,55000,0,275000
+ORD0644,02-07-2026,South,Office Supplies,Stapler,3,220,0.1,594
+ORD0840,02-07-2026,West,Office Supplies,Stapler,3,220,0.1,594
+ORD0915,02-07-2026,West,Clothing,Jacket,4,3200,0,12800
+ORD0854,03-07-2026,West,Office Supplies,Printer Paper,5,450,0.15,1912.5
+ORD0299,03-07-2026,West,Electronics,Headphones,1,3500,0.15,2975
+ORD0928,03-07-2026,East,Clothing,Jacket,7,3200,0.1,20160
+ORD0618,03-07-2026,South,Furniture,Desk,1,12000,0,12000
+ORD0903,03-07-2026,South,Office Supplies,Printer Paper,1,450,0.05,427.5
+ORD0459,03-07-2026,East,Office Supplies,Printer Paper,5,450,0.05,2137.5
+ORD0119,04-07-2026,East,Office Supplies,Pen Set,3,250,0.1,675
+ORD0708,04-07-2026,North,Clothing,Jeans,4,1800,0,7200
+ORD0715,04-07-2026,South,Clothing,Sneakers,3,2800,0,8400
+ORD0121,05-07-2026,West,Furniture,Table,4,10000,0.05,38000
+ORD0532,05-07-2026,North,Clothing,Jacket,7,3200,0,22400
+ORD0086,05-07-2026,West,Electronics,Headphones,2,3500,0.05,6650
+ORD0251,06-07-2026,South,Office Supplies,Stapler,7,220,0.05,1463
+ORD0437,06-07-2026,South,Furniture,Bookshelf,7,8000,0.05,53200
+ORD0944,06-07-2026,West,Electronics,Headphones,6,3500,0,21000
+ORD0882,06-07-2026,West,Electronics,Smartphone,3,28000,0.1,75600
+ORD0243,06-07-2026,East,Electronics,Monitor,3,15000,0,45000
+ORD0041,06-07-2026,South,Clothing,Sneakers,1,2800,0,2800
+ORD0504,07-07-2026,East,Office Supplies,Stapler,7,220,0.05,1463
+ORD0016,07-07-2026,West,Furniture,Office Chair,2,6500,0.15,11050
+ORD0627,07-07-2026,South,Office Supplies,Pen Set,4,250,0.05,950
+ORD0061,07-07-2026,North,Furniture,Desk,5,12000,0.05,57000
+ORD0175,07-07-2026,West,Clothing,Jacket,1,3200,0.1,2880
+ORD0390,07-07-2026,South,Office Supplies,Notebook,3,180,0.15,459
+ORD0436,07-07-2026,West,Electronics,Laptop,2,55000,0.1,99000
+ORD0710,07-07-2026,South,Electronics,Smartphone,1,28000,0,28000
+ORD0877,07-07-2026,South,Clothing,Jeans,3,1800,0.05,5130
+ORD0934,08-07-2026,East,Clothing,Jeans,6,1800,0,10800
+ORD0831,08-07-2026,East,Clothing,Jacket,4,3200,0.1,11520
+ORD0001,08-07-2026,North,Furniture,Office Chair,7,6500,0.05,43225
+ORD0327,08-07-2026,North,Office Supplies,Stapler,2,220,0,440
+ORD0550,08-07-2026,North,Office Supplies,Notebook,5,180,0,900
+ORD0917,09-07-2026,North,Furniture,Office Chair,4,6500,0,26000
+ORD0537,09-07-2026,East,Furniture,Desk,4,12000,0,48000
+ORD0233,09-07-2026,South,Office Supplies,Notebook,2,180,0,360
+ORD0163,09-07-2026,South,Furniture,Table,4,10000,0.1,36000
+ORD0883,09-07-2026,West,Office Supplies,Printer Paper,5,450,0.1,2025
+ORD0080,10-07-2026,North,Clothing,T-Shirt,5,700,0.05,3325
+ORD0930,10-07-2026,South,Electronics,Laptop,7,55000,0.05,365750
+ORD0305,11-07-2026,West,Clothing,Sneakers,7,2800,0.05,18620
+ORD0122,11-07-2026,East,Office Supplies,Stapler,5,220,0.15,935
+ORD0865,11-07-2026,South,Electronics,Smartphone,4,28000,0,112000
+ORD0726,11-07-2026,North,Office Supplies,Stapler,7,220,0,1540
+ORD0505,11-07-2026,West,Furniture,Table,3,10000,0.1,27000
+ORD0234,12-07-2026,East,Furniture,Desk,4,12000,0.15,40800
+ORD0339,12-07-2026,West,Furniture,Bookshelf,5,8000,0,40000
+ORD0022,12-07-2026,East,Office Supplies,Stapler,6,220,0.1,1188
+ORD0462,12-07-2026,West,Electronics,Laptop,4,55000,0.05,209000
+ORD0167,13-07-2026,East,Office Supplies,Pen Set,3,250,0.1,675
+ORD0582,14-07-2026,East,Clothing,Sneakers,4,2800,0.1,10080
+ORD0993,14-07-2026,South,Electronics,Headphones,5,3500,0,17500
+ORD0145,14-07-2026,East,Electronics,Monitor,1,15000,0.1,13500
+ORD0764,14-07-2026,South,Electronics,Smartphone,3,28000,0.05,79800
+ORD0777,14-07-2026,North,Clothing,Sneakers,5,2800,0.05,13300
+ORD0641,15-07-2026,West,Electronics,Laptop,3,55000,0.1,148500
+ORD0432,15-07-2026,South,Office Supplies,Stapler,7,220,0,1540
+ORD0393,15-07-2026,North,Furniture,Bookshelf,6,8000,0,48000
+ORD0920,15-07-2026,East,Furniture,Bookshelf,4,8000,0.05,30400
+ORD0218,15-07-2026,West,Clothing,Sneakers,6,2800,0.1,15120
+ORD0290,15-07-2026,West,Office Supplies,Pen Set,5,250,0,1250
+ORD0545,15-07-2026,East,Furniture,Bookshelf,6,8000,0.05,45600
+ORD0733,15-07-2026,West,Electronics,Smartphone,1,28000,0,28000
+ORD0511,16-07-2026,East,Furniture,Bookshelf,2,8000,0,16000
+ORD0924,16-07-2026,North,Furniture,Bookshelf,5,8000,0.05,38000
+ORD0949,16-07-2026,North,Furniture,Desk,6,12000,0.05,68400
+ORD0642,17-07-2026,West,Clothing,Jacket,5,3200,0,16000
+ORD0038,17-07-2026,West,Office Supplies,Notebook,4,180,0,720
+ORD0514,17-07-2026,West,Clothing,Jeans,2,1800,0,3600
+ORD0183,17-07-2026,South,Office Supplies,Notebook,3,180,0.05,513
+ORD0937,17-07-2026,East,Electronics,Laptop,2,55000,0,110000
+ORD0043,18-07-2026,West,Office Supplies,Printer Paper,3,450,0,1350
+ORD0010,18-07-2026,West,Electronics,Monitor,4,15000,0,60000
+ORD0801,18-07-2026,South,Electronics,Monitor,3,15000,0,45000
+ORD0702,18-07-2026,East,Furniture,Bookshelf,3,8000,0,24000
+ORD0991,18-07-2026,South,Electronics,Headphones,4,3500,0.1,12600
+ORD0014,19-07-2026,South,Clothing,Jeans,7,1800,0.1,11340
+ORD0908,19-07-2026,West,Electronics,Monitor,1,15000,0.1,13500
+ORD0020,20-07-2026,West,Clothing,Jeans,1,1800,0.1,1620
+ORD0575,20-07-2026,North,Office Supplies,Pen Set,2,250,0,500
+ORD0845,21-07-2026,South,Office Supplies,Printer Paper,1,450,0.05,427.5
+ORD0893,21-07-2026,West,Office Supplies,Stapler,7,220,0.1,1386
+ORD0156,21-07-2026,East,Electronics,Laptop,7,55000,0,385000
+ORD0131,21-07-2026,East,Office Supplies,Notebook,5,180,0.1,810
+ORD0610,22-07-2026,West,Electronics,Monitor,7,15000,0,105000
+ORD0990,22-07-2026,West,Office Supplies,Stapler,7,220,0.05,1463
+ORD0992,22-07-2026,West,Office Supplies,Stapler,4,220,0,880
+ORD0376,22-07-2026,East,Furniture,Table,2,10000,0,20000
+ORD0676,22-07-2026,West,Electronics,Laptop,4,55000,0.05,209000
+ORD0544,22-07-2026,North,Electronics,Monitor,4,15000,0,60000
+ORD0963,22-07-2026,East,Office Supplies,Stapler,2,220,0,440
+ORD0732,23-07-2026,West,Electronics,Monitor,6,15000,0.05,85500
+ORD0913,23-07-2026,North,Electronics,Headphones,1,3500,0,3500
+ORD0083,23-07-2026,West,Electronics,Smartphone,6,28000,0.05,159600
+ORD0926,24-07-2026,East,Clothing,Sneakers,4,2800,0.1,10080
+ORD0773,24-07-2026,West,Office Supplies,Stapler,3,220,0.05,627
+ORD0665,24-07-2026,East,Office Supplies,Stapler,3,220,0.05,627
+ORD0128,24-07-2026,North,Furniture,Desk,3,12000,0.1,32400
+ORD0961,25-07-2026,South,Electronics,Monitor,7,15000,0.1,94500
+ORD0611,25-07-2026,East,Office Supplies,Pen Set,1,250,0.1,225
+ORD0696,25-07-2026,North,Clothing,T-Shirt,7,700,0.05,4655
+ORD0445,26-07-2026,South,Clothing,Jacket,1,3200,0.15,2720
+ORD0457,26-07-2026,West,Electronics,Smartphone,2,28000,0,56000
+ORD0836,26-07-2026,West,Clothing,T-Shirt,4,700,0,2800
+ORD0824,26-07-2026,East,Office Supplies,Pen Set,2,250,0.05,475
+ORD0357,27-07-2026,South,Office Supplies,Notebook,1,180,0,180
+ORD0015,27-07-2026,North,Electronics,Laptop,6,55000,0,330000
+ORD0784,27-07-2026,East,Clothing,Jacket,1,3200,0,3200
+ORD0052,27-07-2026,North,Electronics,Smartphone,2,28000,0.05,53200
+ORD0382,27-07-2026,North,Furniture,Office Chair,2,6500,0.1,11700
+ORD0788,28-07-2026,South,Office Supplies,Pen Set,6,250,0,1500
+ORD0309,28-07-2026,West,Furniture,Desk,3,12000,0.15,30600
+ORD0964,28-07-2026,West,Clothing,Jeans,5,1800,0,9000
+ORD0246,29-07-2026,North,Office Supplies,Pen Set,6,250,0.15,1275
+ORD0965,29-07-2026,South,Furniture,Desk,4,12000,0,48000
+ORD0874,30-07-2026,West,Office Supplies,Printer Paper,4,450,0.05,1710
+ORD0238,30-07-2026,East,Office Supplies,Pen Set,4,250,0.05,950
+ORD0123,31-07-2026,North,Office Supplies,Notebook,1,180,0,180
+ORD0745,31-07-2026,North,Clothing,T-Shirt,5,700,0,3500
+ORD0956,31-07-2026,South,Office Supplies,Pen Set,3,250,0.1,675
+ORD0308,02-08-2026,South,Furniture,Desk,1,12000,0,12000
+ORD0040,02-08-2026,East,Clothing,T-Shirt,4,700,0.15,2380
+ORD0557,02-08-2026,North,Clothing,Sneakers,7,2800,0,19600
+ORD0719,02-08-2026,North,Office Supplies,Notebook,3,180,0.05,513
+ORD0635,03-08-2026,West,Office Supplies,Printer Paper,4,450,0,1800
+ORD0643,03-08-2026,South,Clothing,Jacket,5,3200,0,16000
+ORD0069,03-08-2026,East,Office Supplies,Stapler,6,220,0.1,1188
+ORD0021,04-08-2026,North,Furniture,Office Chair,7,6500,0,45500
+ORD0674,04-08-2026,South,Furniture,Office Chair,7,6500,0.1,40950
+ORD0215,04-08-2026,East,Office Supplies,Notebook,1,180,0,180
+ORD0987,04-08-2026,North,Furniture,Desk,2,12000,0.05,22800
+ORD0860,04-08-2026,South,Electronics,Headphones,4,3500,0,14000
+ORD0271,04-08-2026,East,Furniture,Desk,2,12000,0.05,22800
+ORD0488,05-08-2026,West,Electronics,Laptop,7,55000,0.1,346500
+ORD0463,05-08-2026,South,Electronics,Monitor,2,15000,0.05,28500
+ORD0936,05-08-2026,South,Electronics,Smartphone,2,28000,0.05,53200
+ORD0030,05-08-2026,East,Clothing,Jacket,2,3200,0,6400
+ORD0023,06-08-2026,East,Electronics,Smartphone,3,28000,0.1,75600
+ORD0253,06-08-2026,East,Office Supplies,Printer Paper,5,450,0.05,2137.5
+ORD0526,06-08-2026,South,Office Supplies,Stapler,5,220,0,1100
+ORD0292,06-08-2026,West,Electronics,Smartphone,6,28000,0,168000
+ORD0088,07-08-2026,West,Office Supplies,Notebook,4,180,0.05,684
+ORD0358,08-08-2026,South,Furniture,Office Chair,1,6500,0,6500
+ORD0112,08-08-2026,South,Electronics,Headphones,5,3500,0,17500
+ORD0927,08-08-2026,South,Office Supplies,Stapler,5,220,0,1100
+ORD0512,08-08-2026,North,Electronics,Monitor,2,15000,0,30000
+ORD0066,09-08-2026,South,Office Supplies,Printer Paper,6,450,0,2700
+ORD0398,09-08-2026,East,Office Supplies,Pen Set,4,250,0.15,850
+ORD0704,09-08-2026,West,Office Supplies,Printer Paper,2,450,0,900
+ORD0547,09-08-2026,South,Clothing,Jacket,7,3200,0,22400
+ORD0250,09-08-2026,South,Electronics,Monitor,2,15000,0,30000
+ORD0724,09-08-2026,North,Clothing,T-Shirt,2,700,0.1,1260
+ORD0045,10-08-2026,South,Furniture,Office Chair,2,6500,0.1,11700
+ORD0687,10-08-2026,West,Clothing,Sneakers,5,2800,0.1,12600
+ORD0517,10-08-2026,South,Office Supplies,Stapler,3,220,0,660
+ORD0579,11-08-2026,North,Electronics,Laptop,6,55000,0.05,313500
+ORD0467,11-08-2026,East,Clothing,Sneakers,3,2800,0.1,7560
+ORD0287,11-08-2026,South,Office Supplies,Notebook,1,180,0.05,171
+ORD0520,11-08-2026,East,Office Supplies,Stapler,4,220,0.1,792
+ORD0864,12-08-2026,West,Furniture,Office Chair,4,6500,0.05,24700
+ORD0663,12-08-2026,North,Furniture,Office Chair,6,6500,0,39000
+ORD0286,12-08-2026,North,Clothing,T-Shirt,4,700,0,2800
+ORD0444,12-08-2026,West,Office Supplies,Stapler,2,220,0,440
+ORD0751,13-08-2026,West,Clothing,Jacket,3,3200,0.05,9120
+ORD0139,14-08-2026,West,Office Supplies,Printer Paper,3,450,0,1350
+ORD0415,14-08-2026,West,Clothing,Jeans,1,1800,0.05,1710
+ORD0707,14-08-2026,North,Electronics,Headphones,7,3500,0,24500
+ORD0349,14-08-2026,North,Furniture,Desk,3,12000,0,36000
+ORD0880,14-08-2026,West,Electronics,Headphones,4,3500,0.05,13300
+ORD0385,15-08-2026,West,Furniture,Desk,5,12000,0,60000
+ORD0155,15-08-2026,East,Office Supplies,Notebook,2,180,0,360
+ORD0966,15-08-2026,North,Electronics,Monitor,1,15000,0,15000
+ORD0188,16-08-2026,North,Furniture,Desk,5,12000,0,60000
+ORD0369,16-08-2026,East,Furniture,Desk,5,12000,0,60000
+ORD0476,16-08-2026,South,Electronics,Monitor,3,15000,0,45000
+ORD0216,17-08-2026,East,Office Supplies,Notebook,6,180,0,1080
+ORD0430,17-08-2026,North,Clothing,T-Shirt,5,700,0,3500
+ORD0734,17-08-2026,West,Furniture,Table,6,10000,0.05,57000
+ORD0816,17-08-2026,North,Office Supplies,Notebook,2,180,0.1,324
+ORD0593,17-08-2026,South,Clothing,Jacket,5,3200,0,16000
+ORD0264,17-08-2026,East,Electronics,Headphones,2,3500,0.1,6300
+ORD0347,17-08-2026,North,Electronics,Laptop,7,55000,0,385000
+ORD0589,18-08-2026,North,Office Supplies,Pen Set,4,250,0.05,950
+ORD0867,18-08-2026,South,Office Supplies,Pen Set,6,250,0,1500
+ORD0230,18-08-2026,South,Office Supplies,Pen Set,1,250,0,250
+ORD0025,19-08-2026,North,Electronics,Laptop,3,55000,0,165000
+ORD0606,19-08-2026,West,Furniture,Desk,5,12000,0.05,57000
+ORD0603,19-08-2026,North,Furniture,Table,2,10000,0.05,19000
+ORD0337,19-08-2026,North,Electronics,Laptop,7,55000,0.05,365750
+ORD0621,20-08-2026,West,Clothing,T-Shirt,7,700,0,4900
+ORD0236,20-08-2026,East,Furniture,Table,1,10000,0.05,9500
+ORD0450,20-08-2026,East,Electronics,Smartphone,7,28000,0,196000
+ORD0100,21-08-2026,East,Clothing,T-Shirt,4,700,0,2800
+ORD0433,21-08-2026,North,Furniture,Table,2,10000,0.05,19000
+ORD0360,21-08-2026,East,Clothing,T-Shirt,5,700,0.05,3325
+ORD0465,22-08-2026,South,Furniture,Office Chair,4,6500,0.05,24700
+ORD0869,22-08-2026,North,Clothing,T-Shirt,7,700,0.15,4165
+ORD0408,22-08-2026,West,Office Supplies,Pen Set,4,250,0.1,900
+ORD0072,23-08-2026,West,Furniture,Desk,6,12000,0,72000
+ORD0967,23-08-2026,East,Office Supplies,Stapler,6,220,0.1,1188
+ORD0239,23-08-2026,South,Clothing,T-Shirt,6,700,0.15,3570
+ORD0283,23-08-2026,North,Office Supplies,Pen Set,4,250,0,1000
+ORD0671,24-08-2026,East,Electronics,Laptop,1,55000,0,55000
+ORD0307,24-08-2026,West,Office Supplies,Pen Set,7,250,0,1750
+ORD0259,24-08-2026,East,Electronics,Monitor,1,15000,0.05,14250
+ORD0455,24-08-2026,West,Clothing,Sneakers,6,2800,0.1,15120
+ORD0608,24-08-2026,West,Electronics,Headphones,2,3500,0.15,5950
+ORD0255,25-08-2026,South,Office Supplies,Notebook,2,180,0.05,342
+ORD0896,25-08-2026,South,Electronics,Monitor,7,15000,0.05,99750
+ORD0267,25-08-2026,South,Clothing,Jacket,6,3200,0.05,18240
+ORD0818,25-08-2026,East,Furniture,Table,3,10000,0,30000
+ORD0700,25-08-2026,North,Electronics,Laptop,6,55000,0.1,297000
+ORD0652,25-08-2026,South,Office Supplies,Stapler,5,220,0.1,990
+ORD0094,25-08-2026,East,Furniture,Table,2,10000,0.05,19000
+ORD0154,26-08-2026,East,Furniture,Bookshelf,3,8000,0.1,21600
+ORD0705,26-08-2026,North,Electronics,Headphones,7,3500,0,24500
+ORD0615,26-08-2026,North,Clothing,Jacket,5,3200,0.05,15200
+ORD0501,26-08-2026,South,Clothing,T-Shirt,1,700,0.05,665
+ORD0906,26-08-2026,East,Office Supplies,Notebook,4,180,0.05,684
+ORD0225,26-08-2026,East,Electronics,Smartphone,6,28000,0.05,159600
+ORD0182,27-08-2026,East,Furniture,Office Chair,1,6500,0,6500
+ORD0804,27-08-2026,North,Furniture,Desk,6,12000,0.05,68400
+ORD0785,27-08-2026,North,Furniture,Bookshelf,6,8000,0,48000
+ORD0981,27-08-2026,East,Electronics,Headphones,6,3500,0,21000
+ORD0350,27-08-2026,East,Office Supplies,Notebook,7,180,0.05,1197
+ORD0272,27-08-2026,North,Clothing,Jeans,5,1800,0,9000
+ORD0596,28-08-2026,South,Clothing,Sneakers,1,2800,0,2800
+ORD0129,28-08-2026,East,Furniture,Bookshelf,7,8000,0,56000
+ORD0096,28-08-2026,West,Furniture,Table,3,10000,0.15,25500
+ORD0258,29-08-2026,North,Electronics,Smartphone,4,28000,0,112000
+ORD0365,29-08-2026,East,Furniture,Office Chair,1,6500,0,6500
+ORD0922,29-08-2026,West,Clothing,Jeans,2,1800,0,3600
+ORD0344,29-08-2026,West,Office Supplies,Notebook,4,180,0.05,684
+ORD0244,29-08-2026,East,Clothing,T-Shirt,2,700,0.05,1330
+ORD0268,29-08-2026,South,Electronics,Smartphone,1,28000,0,28000
+ORD0453,29-08-2026,West,Furniture,Table,6,10000,0.1,54000
+ORD0675,30-08-2026,South,Furniture,Bookshelf,7,8000,0.05,53200
+ORD0419,31-08-2026,North,Office Supplies,Stapler,7,220,0,1540
+ORD0600,31-08-2026,North,Furniture,Table,3,10000,0.05,28500

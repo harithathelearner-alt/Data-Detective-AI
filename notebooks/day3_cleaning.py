@@ -1,0 +1,12 @@
+import pandas as pd
+df = pd.read_csv("data/Retail_Sales_Data_Analysis-1.csv")
+print(df.head())
+print(df.isnull().sum())
+print("Duplicates:",df.duplicated().sum())
+print(df.dtypes)
+df = df.dropna()
+df = df.drop_duplicates()
+print("Duplicates:",df.duplicated().sum())
+df.to_csv("data/cleaned_sales.csv",index=False)
+print("Cleaned data shape:",df.shape)
+print(df.head())

@@ -1,0 +1,10 @@
+import pandas as pd
+df=pd.read_csv("data/Retail_Sales_Data_Analysis-1.csv")
+print(df.head())
+print(df.shape)
+print(df.columns)
+df.info()
+print(df.describe())
+print(df.isnull().sum())
+print(df.duplicated().sum())
+print(df.dtypes)

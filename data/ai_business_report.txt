@@ -1,0 +1,58 @@
+# Business Investigation Report
+
+**Prepared by:** Data Detective AI  
+**Dataset Size:** 1,000 rows, 9 columns  
+
+---
+
+### 1. Overall Business Performance
+* **Total Sales:** 34,380,696.00
+* **Average Sales per Order:** 34,380.70
+* **Total Quantity Sold:** 4,031 units
+* **Performance Summary:** The business generated strong overall revenue across 1,000 orders, with a high average sales value per transaction.
+
+### 2. Top-Performing Region
+* **North:** 10,161,100.5 (Leading region)
+* *Other Regions:* West (8,417,063.5), East (8,316,086.5), South (7,486,445.5)
+
+### 3. Top-Performing Category
+* **Electronics:** 23,944,425.0 (Dominant revenue driver)
+* *Other Categories:* Furniture (8,091,325.0), Clothing (2,033,455.0), Office Supplies (311,491.0)
+
+### 4. Top Products
+The top revenue-generating products are led by technology items:
+1. Laptop: 13,766,500.0
+2. Smartphone: 5,822,600.0
+3. Monitor: 3,645,000.0
+4. Desk: 2,804,400.0
+5. Table: 2,221,000.0
+6. Bookshelf: 1,963,200.0
+7. Office Chair: 1,102,725.0
+8. Jacket: 828,960.0
+9. Headphones: 710,325.0
+10. Sneakers: 608,860.0
+
+### 5. Monthly Sales Trend
+Sales fluctuate across the observed months, peaking mid-year:
+* **2026-01:** 4,390,872.0
+* **2026-02:** 4,122,701.5
+* **2026-03:** 3,256,144.0
+* **2026-04:** 4,572,484.0
+* **2026-05:** 3,557,848.5
+* **2026-06:** 5,486,582.5 (Peak sales month)
+* **2026-07:** 4,529,664.0
+* **2026-08:** 4,464,399.5
+
+### 6. Important Anomaly Findings
+* **Number of unusual sales records:** 86
+* *Finding:* Approximately 8.6% of the total order records deviate significantly from normal patterns, indicating potential outliers in pricing, quantities, or transaction volumes.
+
+### 7. Three Business Insights
+1. **Revenue Concentration in Electronics:** The Electronics category drives the vast majority of total sales, heavily supported by high-value items like Laptops and Smartphones.
+2. **Geographic Leadership:** The North region outperforms all other regions, suggesting stronger customer demand, larger order sizes, or more effective regional sales strategies there.
+3. **Mid-Year Sales Surge:** Sales experience a sharp peak in June (5,486,582.5) following a dip in May, pointing to potential mid-year promotional success or seasonal buying behavior.
+
+### 8. Three Questions That Should Be Investigated Next
+1. What specific factors caused the 86 unusual sales records, and do they represent fraudulent transactions, data entry errors, or legitimate bulk corporate purchases?
+2. Why did sales drop in March and May before surging in June, and can these seasonal fluctuations be replicated through targeted marketing?
+3. What is causing Office Supplies to lag significantly behind other categories in total revenue?
